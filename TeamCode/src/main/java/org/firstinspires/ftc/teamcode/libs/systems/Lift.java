@@ -11,6 +11,7 @@ public class Lift {
 
     public int[] pos = {0,-1700,-8100,-13000};
 
+
     public Lift(HardwareMap hMap){
         hardwareMap = hMap;
     }
